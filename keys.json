@@ -1,0 +1,4 @@
+{
+    "ABCDEF-123456": { "hwid": "NONE" },
+    "123456-ABCDEF": { "hwid": "NONE" }
+}
